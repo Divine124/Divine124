@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujal Sharma</h1>
-<h3 align="center">Backend Developer | Java | Spring Boot | Microservices</h3>
+<h3 align="center">Full Stack Java Developer | Spring Boot | Microservices | GenAI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sujal-sharma-475737254">
@@ -8,19 +8,22 @@
   <a href="https://github.com/Divine124">
     <img src="https://img.shields.io/badge/GitHub-Divine124-black?style=for-the-badge&logo=github" />
   </a>
+  <a href="mailto:sujal124sharma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Divine124&style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🚀 Backend Developer passionate about building scalable REST APIs  
-- 🔐 Specialized in JWT Authentication & RBAC Authorization  
-- 🧱 Strong in Microservices Architecture  
-- 🛠 Experienced with production-level issue resolution  
-- 🎓 B.Tech CSE – Chandigarh University (2022–2026)  
-- 📍 Lucknow, Uttar Pradesh  
+🚀 Full Stack Developer specializing in **scalable microservices & distributed systems**  
+💡 Passionate about **GenAI, backend engineering & system design**  
+⚡ Built systems handling **20,000+ concurrent users**  
+🔐 Strong in **JWT Authentication & RBAC Authorization**  
+☁️ Experience with **AWS, Docker & CI/CD pipelines**  
+📍 Gurugram, India  
 
 ---
 
@@ -28,46 +31,72 @@
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙ Frameworks & Tools
+### ⚙️ Frameworks & Technologies
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧱 Architecture & Systems
+- Microservices Architecture  
+- Distributed Systems  
+- REST APIs & API Gateway  
+- System Design  
+
+### 🗄 Databases & Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+
+### ⚡ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+### 🔄 Messaging & AI
+![Kafka](https://img.shields.io/badge/ApacheKafka-000000?style=for-the-badge&logo=apachekafka)
+- LLM Integration  
+- Prompt Engineering  
+- OpenAI API  
 
 ---
 
 ## 💼 Experience
 
-**Backend Developer Intern – Uniifinds (Aug 2025 – Oct 2025)**
+### 💼 Full Stack Developer Intern – Uniifinds  
+📅 Aug 2025 – March 2026  
 
-- Developed scalable backend services using Java & Spring Boot  
-- Implemented secure REST APIs with JWT & RBAC  
-- Improved MongoDB query performance by 20%  
-- Built production-grade CRUD microservices  
-- Collaborated with frontend teams to resolve live issues  
+- ⚡ Built microservices handling **20,000+ concurrent users**  
+- 🚀 Improved API response time by **30%** via optimization & indexing  
+- 🔄 Implemented **Redis caching + Kafka async messaging**  
+- 🔐 Developed secure APIs with **JWT & RBAC**  
+- ☁️ Deployed using **Docker + AWS EC2 + CI/CD pipelines**  
+- 🎯 Reduced deployment time by **40%**  
+- 🧠 Worked on backend + frontend (React) + Python automation  
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 AI-Powered Fitness Application (Microservices)
-- Designed User, Activity, AI & Gateway services  
-- Integrated AI-based workout recommendation module  
-- Implemented secure authentication (Spring Security + JWT)  
-- Containerized services using Docker  
+### 🔹 AI-Powered Fitness Application
+- Microservices-based architecture (Gateway, User, Activity, AI)  
+- Secure APIs using Spring Boot + JWT  
+- Integrated React frontend  
+- AI-based recommendation system using Python & LLM concepts  
+- Designed for scalability & high concurrency  
 
-### 🔹 Journal Application
-- Secure backend with full CRUD functionality  
-- Structured exception handling & validation  
-- Optimized database queries for performance  
+---
+
+### 🔹 AI-Based Resume Analyzer
+- GenAI system for **ATS scoring & resume feedback**  
+- Implemented **LLM-based parsing & keyword extraction**  
+- Backend APIs using Spring Boot  
+- Improved resume evaluation accuracy with AI  
 
 ---
 
@@ -91,4 +120,10 @@
 
 ---
 
-⭐ Open to Backend Developer Internships | Full-Time Roles | Collaborations
+## ⚡ Fun Fact
+
+💡 I love building **high-performance backend systems + AI-powered applications**  
+
+---
+
+⭐ Open to **Full-Time Roles | Backend | Full Stack | GenAI | Microservices**
